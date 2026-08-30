@@ -11,4 +11,4 @@ Each of the 5 bits in a binary number have the values 2, 4, 8, 16 and 32 respect
 Finally to reset the value of count after displaying the number 32, I used a simple if statement.
 
 Here is a GIF of the circuit:
-
+[!Alt text](Binary-counter.gif)
