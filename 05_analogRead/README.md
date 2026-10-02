@@ -4,7 +4,7 @@ This is a simple voltage divider circuit built using two 330 ohm resistors to re
 
 ## How it works
 
-The voltage supply of the Arduino board is 5V whereas the analog pin can only give values between 0-1023. So, this code converts that value into a suitable voltage reading in the range 0-5V.
+The voltage supply of the Arduino board is 5V whereas the analog pin can only give values between 0-1023. So, this code converts that value into a suitable voltage reading in the range 0-5V. Since I used two similar resistors, the value of the voltage will be divided by 2 so the output should be around 2.5V.
 
 ## Image
 
