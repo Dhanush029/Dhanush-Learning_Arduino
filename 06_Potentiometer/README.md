@@ -12,5 +12,6 @@ This gif shows the view of the serial monitor where the voltage reading from the
 ![voltges](changing-voltages.gif)
 
 ## Circuit with an led warning
+Using the program potentiometer_ledwarning.ino, I added an extra condition where if the voltage reading was more than
 
 
