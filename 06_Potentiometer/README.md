@@ -4,8 +4,10 @@ The circuit here also reads analog voltage, but from a potentiometer. The potent
 
 ## Simple Circuit
 This is the circuit. Turning the knob on the potentiometer changes the voltage.
+
 ![Circuit](simple-potentiometer-circuit.gif) 
 
 This gif shows the view of the serial monitor where the voltage reading from the potentiometer is printed.
+
 ![voltges](changing-voltages.gif)
 
