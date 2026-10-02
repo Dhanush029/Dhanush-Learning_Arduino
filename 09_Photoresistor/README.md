@@ -11,4 +11,4 @@ This was achieved by finding the equation of a line using two points: (700,1) an
 
 ## Video of working project
 
-[![Watch the demo](https://img.youtube.com/vi/zmjoTXCFESA/maxresdefault.jpg)](https://www.youtube.com/watch?v=zmjoTXCFESA)
+[![Watch the demo](https://img.youtube.com/vi/zmjoTXCFESA/hqdefault.jpg)](https://www.youtube.com/watch?v=zmjoTXCFESA)
