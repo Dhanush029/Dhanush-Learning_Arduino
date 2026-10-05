@@ -22,7 +22,7 @@ Initially, when I pressed the button it worked but only about 70-80% of the time
 ## dimmable-led-with-buttons.ino
 When I hooked up the circuit for this project, I was actually surprised because somehow I got it working on the first try. All this does is it detects if the pushbuttons is pressed and if it is it increases the value written to the led (0-255). This causes the led to become brighter and vice versa for the other pushbutton. I thought increasing the value by 1 was too less so I changed it to 5, this makes the change more visible and faster.
 
-As an addition, I added a buzzer that will buzz when I try to increase the brightness when it is already at 255 or decrease the brightness when it is already at 0. 
+As an addition, I added a buzzer that will buzz when I try to increase the brightness when it is already at 255 or decrease the brightness when it is already at 0. The serial monitor prints the LED value for reference.
 
 ### Video
 [![Watch the demo](https://img.youtube.com/vi/zmjoTXCFESA/hqdefault.jpg)](https://youtu.be/ZBT4h_2wIXI)
