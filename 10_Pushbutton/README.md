@@ -25,6 +25,6 @@ When I hooked up the circuit for this project, I was actually surprised because 
 As an addition, I added a buzzer that will buzz when I try to increase the brightness when it is already at 255 or decrease the brightness when it is already at 0. 
 
 ### Video
-
+[![Watch the demo](https://img.youtube.com/vi/zmjoTXCFESA/hqdefault.jpg)](https://youtu.be/ZBT4h_2wIXI)
 
 
