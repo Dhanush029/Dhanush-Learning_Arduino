@@ -3,6 +3,8 @@
 ## How it works
 The LCD Display I used is a 16x2 display why basically can show 16 characters per line and it has two lines. You can set the cursor position to anywhere on the screen giving this component an array of possibilities.
 
+The LCD needs a potentiometer as it controls the contrast of the display. The output is visible best at a particular contrast which I found by turning the potentiometer slowly.
+
 ## Project: Calculator
 
 ### Description
