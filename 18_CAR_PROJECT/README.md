@@ -10,3 +10,4 @@ Therefore, I wanted to make this project, re-wire it according to the arduino an
 
 
 ## Schematic
+![schematic](car-project-schematic.jpg)
